@@ -1,0 +1,47 @@
+{
+  "title": "Rechercher des biens",
+  "filters": {
+    "title": "Filtres",
+    "category": "Type de bien",
+    "allCategories": "Tous les types",
+    "location": "Emplacement",
+    "canton": "Canton",
+    "allCantons": "Tous les cantons",
+    "city": "Ville",
+    "allCities": "Toutes les villes",
+    "price": "Prix",
+    "priceMin": "Prix min",
+    "priceMax": "Prix max",
+    "rooms": "Pièces",
+    "roomsMin": "Min pièces",
+    "roomsMax": "Max pièces",
+    "surface": "Surface",
+    "surfaceMin": "Surface min",
+    "surfaceMax": "Surface max",
+    "amenities": "Équipements",
+    "moreFilters": "Plus de filtres",
+    "lessFilters": "Moins de filtres",
+    "activeFilters": "Filtres actifs : {count}",
+    "clearAll": "Tout effacer"
+  },
+  "sort": {
+    "label": "Trier par",
+    "newest": "Plus récent",
+    "oldest": "Plus ancien",
+    "priceAsc": "Prix : croissant",
+    "priceDesc": "Prix : décroissant",
+    "roomsAsc": "Pièces : croissant",
+    "roomsDesc": "Pièces : décroissant"
+  },
+  "view": {
+    "grid": "Vue grille",
+    "list": "Vue liste",
+    "map": "Vue carte"
+  },
+  "results": {
+    "found": "{count} bien trouvé | {count} biens trouvés",
+    "showing": "Affichage {from} - {to} sur {total}",
+    "empty": "Aucun bien ne correspond à vos critères",
+    "emptyHint": "Essayez d'ajuster vos filtres ou d'élargir votre zone de recherche"
+  }
+}

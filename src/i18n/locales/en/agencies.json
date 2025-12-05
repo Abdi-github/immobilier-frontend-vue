@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "title": "Find the agency that suits you best"
+  },
+  "search": {
+    "locationPlaceholder": "Where? (city, canton)",
+    "agencyNamePlaceholder": "Agency name",
+    "hint": "Search by city, ZIP or canton to display the corresponding agencies.",
+    "allLocations": "All locations",
+    "noResults": "No locations found",
+    "canton": "Canton",
+    "city": "City"
+  },
+  "results": {
+    "title": "immobilier.ch agencies in {canton} canton",
+    "titleCanton": "immobilier.ch agencies in {name} canton",
+    "titleCity": "immobilier.ch agencies in {name}",
+    "titleSearch": "Search results for \"{search}\"",
+    "titleAll": "All agencies",
+    "showing": "Showing {from}-{to} of {total} agencies",
+    "noResults": "No agencies found",
+    "noResultsHint": "Try adjusting your search criteria",
+    "clearSearch": "Clear search"
+  },
+  "card": {
+    "verified": "Verified",
+    "propertiesCount": "{count} residential objects",
+    "toBuy": "To buy",
+    "toRent": "To rent",
+    "details": "Details",
+    "map": "Map",
+    "contact": "Contact"
+  },
+  "detail": {
+    "title": "Agencies",
+    "notFound": "Agency not found",
+    "notFoundDescription": "The agency you are looking for does not exist or has been removed.",
+    "backToList": "Back to agencies",
+    "listings": "Listings",
+    "noListings": "No active listings at the moment.",
+    "activeListings": "active listings",
+    "contactInfo": "Contact Information",
+    "contactPerson": "Contact person",
+    "sendMessage": "Send a message",
+    "callNow": "Call now",
+    "canton": "Canton",
+    "city": "City",
+    "postalCode": "Postal code",
+    "memberSince": "Member since",
+    "verified": "Verified"
+  },
+  "landing": {
+    "title": "Search for real estate agencies",
+    "description": "Enter a city or canton name in the search box above to find real estate agencies in your area. You can also search by agency name."
+  },
+  "seo": {
+    "title": "Real Estate Agencies in Switzerland",
+    "description": "Find trusted real estate agencies across Switzerland. Browse agency profiles, property listings, and contact information."
+  }
+}

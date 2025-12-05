@@ -1,0 +1,239 @@
+{
+  "list": {
+    "title": "Biens immobiliers",
+    "results": "{count} biens trouvés",
+    "resultsRange": "{start}-{end} sur {total} biens trouvés",
+    "pageIndicator": "Page {current} sur {total}",
+    "noResults": "Aucun bien trouvé",
+    "noResultsHint": "Essayez d'ajuster vos critères de recherche",
+    "loading": "Chargement des biens...",
+    "searchPlaceholder": "Rechercher des biens...",
+    "createAlert": "Créer votre alerte e-mail",
+    "rentIn": "Louer en Suisse",
+    "buyIn": "Acheter en Suisse",
+    "listView": "Liste",
+    "map": "Carte",
+    "sort": "Trier",
+    "alertBanner": {
+      "subtitle": "Recevez les nouveaux biens par email",
+      "cta": "Créer votre alerte e-mail"
+    }
+  },
+  "filters": {
+    "title": "Filtres",
+    "transactionType": "Type de transaction",
+    "rent": "Louer",
+    "buy": "Acheter",
+    "rentAmount": "Montant du loyer",
+    "price": "Prix",
+    "category": "Type de bien",
+    "location": "Emplacement",
+    "priceRange": "Fourchette de prix",
+    "rooms": "Pièces",
+    "surface": "Surface",
+    "propertyType": "Type de bien",
+    "typesSelected": "types",
+    "searchLocation": "Rechercher ville, code postal ou canton...",
+    "noLocationsFound": "Aucun emplacement trouvé",
+    "canton": "Canton",
+    "addLocation": "Ajouter",
+    "clearLocations": "Effacer tous les emplacements"
+  },
+  "sort": {
+    "placeholder": "Trier par",
+    "topOffers": "Meilleures offres",
+    "newest": "Plus récent",
+    "oldest": "Plus ancien",
+    "priceAsc": "Prix (croissant)",
+    "priceDesc": "Prix (décroissant)"
+  },
+  "sortOptions": {
+    "newest": "Plus récent",
+    "oldest": "Plus ancien",
+    "priceLowHigh": "Prix : croissant",
+    "priceHighLow": "Prix : décroissant",
+    "surfaceLargest": "Plus grande surface",
+    "mostRooms": "Plus de pièces"
+  },
+  "seo": {
+    "title": "Biens à louer et à vendre en Suisse",
+    "description": "Parcourez les appartements, maisons et biens commerciaux disponibles à la location et à la vente en Suisse."
+  },
+  "detail": {
+    "description": "Description",
+    "features": "Caractéristiques",
+    "amenities": "Équipements",
+    "location": "Emplacement",
+    "gallery": "Galerie",
+    "contact": "Contact",
+    "share": "Partager",
+    "print": "Imprimer",
+    "report": "Signaler l'annonce",
+    "price": "Prix",
+    "additionalCosts": "charges supplémentaires",
+    "surface": "Surface",
+    "address": "Adresse",
+    "city": "Ville",
+    "canton": "Canton",
+    "postalCode": "Code postal",
+    "nearby": "À proximité",
+    "publishedOn": "Publié le",
+    "reference": "Référence",
+    "notFound": "Bien non trouvé",
+    "notFoundDescription": "Le bien que vous recherchez n'existe pas ou a été supprimé.",
+    "backToList": "Retour aux biens"
+  },
+  "features": {
+    "rooms": "Pièces",
+    "bedrooms": "Chambres",
+    "bathrooms": "Salles de bain",
+    "surface": "Surface habitable",
+    "floor": "Étage",
+    "yearBuilt": "Année de construction",
+    "availableFrom": "Disponible dès",
+    "parking": "Parking"
+  },
+  "card": {
+    "new": "Nouveau",
+    "featured": "En vedette",
+    "reduced": "Prix réduit",
+    "viewDetails": "Voir les détails"
+  },
+  "contact": {
+    "title": "Contacter à propos de ce bien",
+    "listedBy": "Bien publié par",
+    "name": "Votre nom",
+    "email": "Votre email",
+    "phone": "Votre téléphone",
+    "message": "Votre message",
+    "defaultMessage": "Je suis intéressé par le bien : {title}",
+    "messagePlaceholder": "Je suis intéressé par ce bien...",
+    "send": "Envoyer le message",
+    "call": "Appeler",
+    "success": "Votre message a été envoyé avec succès",
+    "error": "Échec de l'envoi du message. Veuillez réessayer."
+  },
+  "agency": {
+    "title": "Publié par",
+    "viewProfile": "Voir le profil de l'agence",
+    "allListings": "Voir toutes les annonces"
+  },
+  "similar": {
+    "title": "Biens similaires",
+    "viewAll": "Voir tous les similaires"
+  },
+  "proximity": {
+    "title": "À proximité",
+    "publicTransport": "Transports publics",
+    "schools": "Écoles",
+    "shopping": "Commerces",
+    "restaurants": "Restaurants"
+  },
+  "map": {
+    "title": "Emplacement",
+    "noLocation": "Emplacement non disponible pour ce bien"
+  },
+  "form": {
+    "createTitle": "Créer un nouveau bien",
+    "editTitle": "Modifier le bien",
+    "steps": {
+      "basicInfo": "Informations de base",
+      "location": "Emplacement",
+      "details": "Détails",
+      "amenities": "Équipements",
+      "photos": "Photos",
+      "review": "Vérification"
+    },
+    "basicInfo": {
+      "title": "Informations de base",
+      "description": "Commencez par entrer les détails essentiels de votre bien",
+      "transactionType": "Type de transaction",
+      "rent": "À louer",
+      "buy": "À vendre",
+      "category": "Type de bien",
+      "categoryPlaceholder": "Sélectionnez un type de bien",
+      "propertyTitle": "Titre du bien",
+      "propertyTitlePlaceholder": "Ex: Bel appartement 3 pièces à Zurich",
+      "propertyDescription": "Description",
+      "propertyDescriptionPlaceholder": "Décrivez votre bien en détail...",
+      "sourceLanguage": "Langue de l'annonce"
+    },
+    "location": {
+      "title": "Détails de l'emplacement",
+      "description": "Aidez les acheteurs ou locataires à trouver votre bien",
+      "canton": "Canton",
+      "cantonPlaceholder": "Sélectionnez un canton",
+      "city": "Ville",
+      "cityPlaceholder": "Sélectionnez une ville",
+      "selectCantonFirst": "Veuillez d'abord sélectionner un canton",
+      "address": "Adresse",
+      "addressPlaceholder": "Ex: Bahnhofstrasse 10",
+      "postalCode": "Code postal",
+      "postalCodePlaceholder": "Ex: 8001"
+    },
+    "details": {
+      "title": "Détails du bien",
+      "description": "Fournissez les spécifications et informations de prix",
+      "price": "Prix",
+      "pricePlaceholder": "Ex: 2500",
+      "priceHintRent": "Loyer mensuel en CHF",
+      "priceHintBuy": "Prix de vente en CHF",
+      "additionalCosts": "Charges supplémentaires",
+      "rooms": "Nombre de pièces",
+      "roomsPlaceholder": "Ex: 3.5",
+      "surface": "Surface habitable",
+      "surfacePlaceholder": "Ex: 85"
+    },
+    "amenities": {
+      "title": "Équipements et caractéristiques",
+      "description": "Sélectionnez tous les équipements et caractéristiques de votre bien",
+      "selectedCount": "{count} équipements sélectionnés"
+    },
+    "photos": {
+      "title": "Photos du bien",
+      "description": "Téléchargez des photos de haute qualité pour attirer plus d'intérêt",
+      "dropzone": "Glissez-déposez des photos ici ou cliquez pour sélectionner",
+      "uploading": "Téléchargement...",
+      "setPrimary": "Définir comme principale",
+      "primaryImage": "Image principale",
+      "imageCount": "{count} sur {max} photos"
+    },
+    "review": {
+      "title": "Vérifiez votre annonce",
+      "description": "Veuillez vérifier tous les détails avant de soumettre"
+    },
+    "actions": {
+      "next": "Suivant",
+      "previous": "Précédent",
+      "saveDraft": "Enregistrer comme brouillon",
+      "submit": "Soumettre pour vérification",
+      "submitting": "Soumission...",
+      "cancel": "Annuler",
+      "saveChanges": "Enregistrer les modifications",
+      "saving": "Enregistrement...",
+      "backToProperties": "Retour à mes biens"
+    },
+    "validation": {
+      "required": "Ce champ est obligatoire",
+      "selectCategory": "Veuillez sélectionner un type de bien",
+      "selectCanton": "Veuillez sélectionner un canton",
+      "selectCity": "Veuillez sélectionner une ville",
+      "enterTitle": "Veuillez entrer un titre",
+      "enterDescription": "Veuillez entrer une description",
+      "enterAddress": "Veuillez entrer l'adresse",
+      "enterPrice": "Veuillez entrer un prix",
+      "invalidPrice": "Veuillez entrer un prix valide"
+    },
+    "success": {
+      "created": "Bien créé avec succès !",
+      "updated": "Bien mis à jour avec succès !",
+      "draftSaved": "Brouillon enregistré avec succès !"
+    },
+    "error": {
+      "createFailed": "Échec de la création du bien",
+      "updateFailed": "Échec de la mise à jour du bien",
+      "uploadFailed": "Échec du téléchargement des images",
+      "notFound": "Bien non trouvé"
+    }
+  }
+}

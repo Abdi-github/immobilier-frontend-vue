@@ -1,0 +1,47 @@
+{
+  "title": "Cerca immobili",
+  "filters": {
+    "title": "Filtri",
+    "category": "Tipo di immobile",
+    "allCategories": "Tutti i tipi",
+    "location": "Località",
+    "canton": "Cantone",
+    "allCantons": "Tutti i cantoni",
+    "city": "Città",
+    "allCities": "Tutte le città",
+    "price": "Prezzo",
+    "priceMin": "Prezzo minimo",
+    "priceMax": "Prezzo massimo",
+    "rooms": "Locali",
+    "roomsMin": "Min. locali",
+    "roomsMax": "Max. locali",
+    "surface": "Superficie",
+    "surfaceMin": "Superficie min.",
+    "surfaceMax": "Superficie max.",
+    "amenities": "Dotazioni",
+    "moreFilters": "Più filtri",
+    "lessFilters": "Meno filtri",
+    "activeFilters": "Filtri attivi: {count}",
+    "clearAll": "Cancella tutti"
+  },
+  "sort": {
+    "label": "Ordina per",
+    "newest": "Più recenti",
+    "oldest": "Meno recenti",
+    "priceAsc": "Prezzo: Crescente",
+    "priceDesc": "Prezzo: Decrescente",
+    "roomsAsc": "Locali: Crescente",
+    "roomsDesc": "Locali: Decrescente"
+  },
+  "view": {
+    "grid": "Vista griglia",
+    "list": "Vista elenco",
+    "map": "Vista mappa"
+  },
+  "results": {
+    "found": "{count} immobile trovato | {count} immobili trovati",
+    "showing": "Visualizzazione {from} - {to} di {total}",
+    "empty": "Nessun immobile corrisponde ai tuoi criteri",
+    "emptyHint": "Prova a modificare i filtri o ad ampliare l'area di ricerca"
+  }
+}

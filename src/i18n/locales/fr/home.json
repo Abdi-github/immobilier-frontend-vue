@@ -1,0 +1,89 @@
+{
+  "hero": {
+    "title": "Votre projet commence ici",
+    "subtitle": "Recherchez des milliers de biens à louer ou à vendre dans toute la Suisse",
+    "residential": "Résidentiel",
+    "commercial": "Commercial",
+    "estimate": "Estimation",
+    "wherePlaceholder": "Où ? (villes, NPA, quartiers, cantons)",
+    "allLocations": "Tous les emplacements"
+  },
+  "quickSearch": {
+    "title": "Que cherchez-vous ?",
+    "rentTab": "Louer",
+    "buyTab": "Acheter",
+    "locationPlaceholder": "Lieu (ville, canton)",
+    "categoryPlaceholder": "Type de bien",
+    "searchButton": "Rechercher"
+  },
+  "services": {
+    "title": "Nos services pour vous accompagner",
+    "estimate": {
+      "title": "Estimez",
+      "subtitle": "votre bien",
+      "tag": "gratuitement"
+    },
+    "eTenant": {
+      "title": "Postulez",
+      "subtitle": "pour une location",
+      "tag": "avec e-Locataire"
+    },
+    "findAgency": {
+      "title": "Trouvez",
+      "subtitle": "une agence"
+    }
+  },
+  "featured": {
+    "title": "Dernières propriétés",
+    "subtitle": "Découvrez notre sélection de biens exceptionnels",
+    "viewAll": "Voir tous les biens",
+    "noProperties": "Aucun bien disponible pour le moment."
+  },
+  "categories": {
+    "title": "Parcourir par catégorie",
+    "subtitle": "Trouvez le type de bien idéal pour vos besoins"
+  },
+  "locations": {
+    "title": "Emplacements populaires",
+    "subtitle": "Explorez les biens dans les régions les plus recherchées de Suisse"
+  },
+  "cityListings": {
+    "title": "Découvrez les biens par ville",
+    "subtitle": "Parcourez l'immobilier dans les villes les plus populaires de Suisse",
+    "toRent": "à louer",
+    "toBuy": "à acheter",
+    "seeMore": "Voir d'autres villes"
+  },
+  "buyOrRent": {
+    "title": "Acheter ou louer ?",
+    "subtitle": "Quelles que soient vos exigences, vous trouverez certainement ce que vous cherchez sur immobilier.ch.",
+    "wantToBuy": "Je veux acheter",
+    "wantToRent": "Je veux louer",
+    "lookingForAgency": "Je cherche une agence immobilière"
+  },
+  "info": {
+    "title": "Nous vous donnons les clés d'une expérience immobilière réussie en Suisse",
+    "paragraph1": "Acheter une maison, louer un appartement ou investir dans l'immobilier peut souvent être compliqué. Quel que soit votre projet immobilier en Suisse – acheter, louer, vendre ou investir – vous pouvez être sûr de trouver toutes les réponses à vos besoins sur immobilier.ch.",
+    "paragraph2": "Votre maison de rêve vous attend ! Il ne faudra que quelques clics pour la trouver sur immobilier.ch. Entrez vos critères, lancez la recherche et obtenez immédiatement les résultats les plus pertinents."
+  },
+  "stats": {
+    "properties": "Biens",
+    "cities": "Villes",
+    "agencies": "Agences",
+    "happyClients": "Clients satisfaits"
+  },
+  "cta": {
+    "title": "Prêt à trouver votre prochain logement ?",
+    "subtitle": "Commencez votre recherche dès aujourd'hui et découvrez des biens exceptionnels",
+    "button": "Commencer la recherche"
+  },
+  "whyUs": {
+    "title": "Pourquoi choisir Immobilier.ch ?",
+    "reason1Title": "Large sélection",
+    "reason1Desc": "Des milliers de biens provenant d'agences de confiance",
+    "reason2Title": "Recherche facile",
+    "reason2Desc": "Des filtres avancés pour trouver exactement ce qu'il vous faut",
+    "reason3Title": "Expertise locale",
+    "reason3Desc": "Une connaissance approfondie du marché immobilier suisse"
+  }
+}

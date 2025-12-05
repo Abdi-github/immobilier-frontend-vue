@@ -1,0 +1,89 @@
+{
+  "hero": {
+    "title": "Ihr Projekt beginnt hier",
+    "subtitle": "Durchsuchen Sie Tausende von Immobilien zur Miete oder zum Kauf in der Schweiz",
+    "residential": "Wohnen",
+    "commercial": "Gewerbe",
+    "estimate": "Schätzung",
+    "wherePlaceholder": "Wo? (Städte, PLZ, Bezirke, Kantone)",
+    "allLocations": "Alle Standorte"
+  },
+  "quickSearch": {
+    "title": "Was suchen Sie?",
+    "rentTab": "Mieten",
+    "buyTab": "Kaufen",
+    "locationPlaceholder": "Ort (Stadt, Kanton)",
+    "categoryPlaceholder": "Immobilientyp",
+    "searchButton": "Suchen"
+  },
+  "services": {
+    "title": "Unsere Dienste für Sie",
+    "estimate": {
+      "title": "Schätzen",
+      "subtitle": "Ihre Immobilie",
+      "tag": "kostenlos"
+    },
+    "eTenant": {
+      "title": "Bewerben",
+      "subtitle": "für eine Miete",
+      "tag": "mit e-Tenant"
+    },
+    "findAgency": {
+      "title": "Finden",
+      "subtitle": "eine Agentur"
+    }
+  },
+  "featured": {
+    "title": "Neueste Immobilien",
+    "subtitle": "Entdecken Sie unsere Auswahl an aussergewöhnlichen Immobilien",
+    "viewAll": "Alle Immobilien anzeigen",
+    "noProperties": "Derzeit keine Immobilien verfügbar."
+  },
+  "categories": {
+    "title": "Nach Kategorie suchen",
+    "subtitle": "Finden Sie den perfekten Immobilientyp für Ihre Bedürfnisse"
+  },
+  "locations": {
+    "title": "Beliebte Standorte",
+    "subtitle": "Entdecken Sie Immobilien in den begehrtesten Gegenden der Schweiz"
+  },
+  "cityListings": {
+    "title": "Immobilien nach Stadt entdecken",
+    "subtitle": "Durchsuchen Sie Immobilien in den beliebtesten Schweizer Städten",
+    "toRent": "zu vermieten",
+    "toBuy": "zu kaufen",
+    "seeMore": "Weitere Städte"
+  },
+  "buyOrRent": {
+    "title": "Kaufen oder mieten?",
+    "subtitle": "Was auch immer Ihre Anforderungen sind, Sie werden sicher auf immobilier.ch finden, was Sie suchen.",
+    "wantToBuy": "Ich möchte kaufen",
+    "wantToRent": "Ich möchte mieten",
+    "lookingForAgency": "Ich suche eine Immobilienagentur"
+  },
+  "info": {
+    "title": "Wir geben Ihnen die Schlüssel zu einer erfolgreichen Immobilienerfahrung in der Schweiz",
+    "paragraph1": "Ein Haus kaufen, eine Wohnung mieten oder in Immobilien investieren kann oft kompliziert sein. Was auch immer Ihr Immobilienprojekt in der Schweiz ist – Kaufen, Mieten, Verkaufen oder Investieren – auf immobilier.ch finden Sie alle Antworten auf Ihre Bedürfnisse.",
+    "paragraph2": "Ihr Traumhaus wartet auf Sie! Mit nur wenigen Klicks finden Sie es auf immobilier.ch. Geben Sie Ihre Kriterien ein, starten Sie die Suche und erhalten Sie sofort die relevantesten Ergebnisse."
+  },
+  "stats": {
+    "properties": "Immobilien",
+    "cities": "Städte",
+    "agencies": "Agenturen",
+    "happyClients": "Zufriedene Kunden"
+  },
+  "cta": {
+    "title": "Bereit, Ihr nächstes Zuhause zu finden?",
+    "subtitle": "Starten Sie Ihre Suche noch heute und entdecken Sie grossartige Immobilien",
+    "button": "Suche starten"
+  },
+  "whyUs": {
+    "title": "Warum Immobilier.ch wählen?",
+    "reason1Title": "Grosse Auswahl",
+    "reason1Desc": "Tausende Immobilien von vertrauenswürdigen Agenturen",
+    "reason2Title": "Einfache Suche",
+    "reason2Desc": "Erweiterte Filter, um genau das zu finden, was Sie brauchen",
+    "reason3Title": "Lokale Expertise",
+    "reason3Desc": "Fundierte Kenntnisse des Schweizer Immobilienmarkts"
+  }
+}

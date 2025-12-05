@@ -1,0 +1,239 @@
+{
+  "list": {
+    "title": "Properties",
+    "results": "{count} properties found",
+    "resultsRange": "{start}-{end} of {total} properties found",
+    "pageIndicator": "Page {current} on {total}",
+    "noResults": "No properties found",
+    "noResultsHint": "Try adjusting your search criteria",
+    "loading": "Loading properties...",
+    "searchPlaceholder": "Search properties...",
+    "createAlert": "Create your e-mail alert",
+    "rentIn": "Rent in Switzerland",
+    "buyIn": "Buy in Switzerland",
+    "listView": "List",
+    "map": "Map",
+    "sort": "Sort",
+    "alertBanner": {
+      "subtitle": "Receive new properties by email",
+      "cta": "Create your e-mail alert"
+    }
+  },
+  "filters": {
+    "title": "Filters",
+    "transactionType": "Transaction Type",
+    "rent": "Rent",
+    "buy": "Buy",
+    "rentAmount": "Rent amount",
+    "price": "Price",
+    "category": "Property type",
+    "location": "Location",
+    "priceRange": "Price Range",
+    "rooms": "Rooms",
+    "surface": "Surface",
+    "propertyType": "Property type",
+    "typesSelected": "types",
+    "searchLocation": "Search city, postal code or canton...",
+    "noLocationsFound": "No locations found",
+    "canton": "Canton",
+    "addLocation": "Add",
+    "clearLocations": "Clear all locations"
+  },
+  "sort": {
+    "placeholder": "Sort by",
+    "topOffers": "TOP offers",
+    "newest": "Newest listed",
+    "oldest": "Oldest listed",
+    "priceAsc": "Price (ascending)",
+    "priceDesc": "Price (descending)"
+  },
+  "sortOptions": {
+    "newest": "Newest first",
+    "oldest": "Oldest first",
+    "priceLowHigh": "Price: Low to High",
+    "priceHighLow": "Price: High to Low",
+    "surfaceLargest": "Largest surface",
+    "mostRooms": "Most rooms"
+  },
+  "seo": {
+    "title": "Properties for Rent & Sale in Switzerland",
+    "description": "Browse apartments, houses and commercial properties available for rent and sale across Switzerland."
+  },
+  "detail": {
+    "description": "Description",
+    "features": "Features",
+    "amenities": "Amenities",
+    "location": "Location",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "share": "Share",
+    "print": "Print",
+    "report": "Report listing",
+    "price": "Price",
+    "additionalCosts": "additional costs",
+    "surface": "Surface",
+    "address": "Address",
+    "city": "City",
+    "canton": "Canton",
+    "postalCode": "Postal Code",
+    "nearby": "Nearby",
+    "publishedOn": "Published on",
+    "reference": "Reference",
+    "notFound": "Property not found",
+    "notFoundDescription": "The property you are looking for does not exist or has been removed.",
+    "backToList": "Back to properties"
+  },
+  "features": {
+    "rooms": "Rooms",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "surface": "Living area",
+    "floor": "Floor",
+    "yearBuilt": "Year built",
+    "availableFrom": "Available from",
+    "parking": "Parking"
+  },
+  "card": {
+    "new": "New",
+    "featured": "Featured",
+    "reduced": "Price reduced",
+    "viewDetails": "View details"
+  },
+  "contact": {
+    "title": "Contact about this property",
+    "listedBy": "Property listed by",
+    "name": "Your name",
+    "email": "Your email",
+    "phone": "Your phone",
+    "message": "Your message",
+    "defaultMessage": "I am interested in the property: {title}",
+    "messagePlaceholder": "I am interested in this property...",
+    "send": "Send message",
+    "call": "Call",
+    "success": "Your message has been sent successfully",
+    "error": "Failed to send message. Please try again."
+  },
+  "agency": {
+    "title": "Listed by",
+    "viewProfile": "View agency profile",
+    "allListings": "View all listings"
+  },
+  "similar": {
+    "title": "Similar Properties",
+    "viewAll": "View all similar"
+  },
+  "proximity": {
+    "title": "Nearby",
+    "publicTransport": "Public transport",
+    "schools": "Schools",
+    "shopping": "Shopping",
+    "restaurants": "Restaurants"
+  },
+  "map": {
+    "title": "Location",
+    "noLocation": "Location not available for this property"
+  },
+  "form": {
+    "createTitle": "Create New Property",
+    "editTitle": "Edit Property",
+    "steps": {
+      "basicInfo": "Basic Info",
+      "location": "Location",
+      "details": "Details",
+      "amenities": "Amenities",
+      "photos": "Photos",
+      "review": "Review"
+    },
+    "basicInfo": {
+      "title": "Basic Information",
+      "description": "Start by entering the essential details of your property",
+      "transactionType": "Transaction Type",
+      "rent": "For Rent",
+      "buy": "For Sale",
+      "category": "Property Type",
+      "categoryPlaceholder": "Select a property type",
+      "propertyTitle": "Property Title",
+      "propertyTitlePlaceholder": "e.g., Beautiful 3-room apartment in Zurich",
+      "propertyDescription": "Description",
+      "propertyDescriptionPlaceholder": "Describe your property in detail...",
+      "sourceLanguage": "Listing Language"
+    },
+    "location": {
+      "title": "Location Details",
+      "description": "Help buyers or renters find your property",
+      "canton": "Canton",
+      "cantonPlaceholder": "Select a canton",
+      "city": "City",
+      "cityPlaceholder": "Select a city",
+      "selectCantonFirst": "Please select a canton first",
+      "address": "Street Address",
+      "addressPlaceholder": "e.g., Bahnhofstrasse 10",
+      "postalCode": "Postal Code",
+      "postalCodePlaceholder": "e.g., 8001"
+    },
+    "details": {
+      "title": "Property Details",
+      "description": "Provide specifications and pricing information",
+      "price": "Price",
+      "pricePlaceholder": "e.g., 2500",
+      "priceHintRent": "Monthly rent in CHF",
+      "priceHintBuy": "Sale price in CHF",
+      "additionalCosts": "Additional Costs",
+      "rooms": "Number of Rooms",
+      "roomsPlaceholder": "e.g., 3.5",
+      "surface": "Living Area",
+      "surfacePlaceholder": "e.g., 85"
+    },
+    "amenities": {
+      "title": "Amenities & Features",
+      "description": "Select all amenities and features your property offers",
+      "selectedCount": "{count} amenities selected"
+    },
+    "photos": {
+      "title": "Property Photos",
+      "description": "Upload high-quality photos to attract more interest",
+      "dropzone": "Drag and drop photos here, or click to select",
+      "uploading": "Uploading...",
+      "setPrimary": "Set as primary",
+      "primaryImage": "Primary image",
+      "imageCount": "{count} of {max} photos"
+    },
+    "review": {
+      "title": "Review Your Listing",
+      "description": "Please review all details before submitting"
+    },
+    "actions": {
+      "next": "Next",
+      "previous": "Previous",
+      "saveDraft": "Save as Draft",
+      "submit": "Submit for Review",
+      "submitting": "Submitting...",
+      "cancel": "Cancel",
+      "saveChanges": "Save Changes",
+      "saving": "Saving...",
+      "backToProperties": "Back to My Properties"
+    },
+    "validation": {
+      "required": "This field is required",
+      "selectCategory": "Please select a property type",
+      "selectCanton": "Please select a canton",
+      "selectCity": "Please select a city",
+      "enterTitle": "Please enter a title",
+      "enterDescription": "Please enter a description",
+      "enterAddress": "Please enter the street address",
+      "enterPrice": "Please enter a price",
+      "invalidPrice": "Please enter a valid price"
+    },
+    "success": {
+      "created": "Property created successfully!",
+      "updated": "Property updated successfully!",
+      "draftSaved": "Draft saved successfully!"
+    },
+    "error": {
+      "createFailed": "Failed to create property",
+      "updateFailed": "Failed to update property",
+      "uploadFailed": "Failed to upload images",
+      "notFound": "Property not found"
+    }
+  }
+}

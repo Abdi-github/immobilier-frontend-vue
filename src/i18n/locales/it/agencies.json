@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "title": "Trova l'agenzia più adatta a te"
+  },
+  "search": {
+    "locationPlaceholder": "Dove? (città, cantone)",
+    "agencyNamePlaceholder": "Nome agenzia",
+    "hint": "Cerca per città, CAP o cantone per visualizzare le agenzie corrispondenti.",
+    "allLocations": "Tutte le località",
+    "noResults": "Nessuna località trovata",
+    "canton": "Cantone",
+    "city": "Città"
+  },
+  "results": {
+    "title": "Agenzie immobilier.ch nel cantone di {canton}",
+    "titleCanton": "Agenzie immobilier.ch nel cantone di {name}",
+    "titleCity": "Agenzie immobilier.ch a {name}",
+    "titleSearch": "Risultati della ricerca per \"{search}\"",
+    "titleAll": "Tutte le agenzie",
+    "showing": "Visualizzazione {from}-{to} di {total} agenzie",
+    "noResults": "Nessuna agenzia trovata",
+    "noResultsHint": "Prova a modificare i criteri di ricerca",
+    "clearSearch": "Cancella ricerca"
+  },
+  "card": {
+    "verified": "Verificata",
+    "propertiesCount": "{count} oggetti residenziali",
+    "toBuy": "In vendita",
+    "toRent": "In affitto",
+    "details": "Dettagli",
+    "map": "Mappa",
+    "contact": "Contatto"
+  },
+  "detail": {
+    "title": "Agenzie",
+    "notFound": "Agenzia non trovata",
+    "notFoundDescription": "L'agenzia che stai cercando non esiste o è stata rimossa.",
+    "backToList": "Torna alle agenzie",
+    "listings": "Annunci",
+    "noListings": "Nessun annuncio attivo al momento.",
+    "activeListings": "annunci attivi",
+    "contactInfo": "Informazioni di contatto",
+    "contactPerson": "Persona di contatto",
+    "sendMessage": "Invia un messaggio",
+    "callNow": "Chiama ora",
+    "canton": "Cantone",
+    "city": "Città",
+    "postalCode": "Codice postale",
+    "memberSince": "Membro dal",
+    "verified": "Verificata"
+  },
+  "landing": {
+    "title": "Cerca agenzie immobiliari",
+    "description": "Inserisci il nome di una città o cantone nella casella di ricerca per trovare agenzie immobiliari nella tua zona. Puoi anche cercare per nome dell'agenzia."
+  },
+  "seo": {
+    "title": "Agenzie immobiliari in Svizzera",
+    "description": "Trova agenzie immobiliari affidabili in tutta la Svizzera. Sfoglia profili, annunci e informazioni di contatto."
+  }
+}

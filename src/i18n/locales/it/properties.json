@@ -1,0 +1,239 @@
+{
+  "list": {
+    "title": "Immobili",
+    "results": "{count} immobili trovati",
+    "resultsRange": "{start}-{end} di {total} immobili trovati",
+    "pageIndicator": "Pagina {current} di {total}",
+    "noResults": "Nessun immobile trovato",
+    "noResultsHint": "Prova a modificare i criteri di ricerca",
+    "loading": "Caricamento immobili...",
+    "searchPlaceholder": "Cerca immobili...",
+    "createAlert": "Crea il tuo avviso email",
+    "rentIn": "Affittare in Svizzera",
+    "buyIn": "Comprare in Svizzera",
+    "listView": "Elenco",
+    "map": "Mappa",
+    "sort": "Ordina",
+    "alertBanner": {
+      "subtitle": "Ricevi nuovi immobili via email",
+      "cta": "Crea il tuo avviso email"
+    }
+  },
+  "filters": {
+    "title": "Filtri",
+    "transactionType": "Tipo di transazione",
+    "rent": "Affitto",
+    "buy": "Acquisto",
+    "rentAmount": "Importo affitto",
+    "price": "Prezzo",
+    "category": "Tipo di immobile",
+    "location": "Località",
+    "priceRange": "Fascia di prezzo",
+    "rooms": "Locali",
+    "surface": "Superficie",
+    "propertyType": "Tipo di immobile",
+    "typesSelected": "tipi",
+    "searchLocation": "Cerca città, CAP o cantone...",
+    "noLocationsFound": "Nessuna località trovata",
+    "canton": "Cantone",
+    "addLocation": "Aggiungi",
+    "clearLocations": "Cancella tutte le località"
+  },
+  "sort": {
+    "placeholder": "Ordina per",
+    "topOffers": "TOP offerte",
+    "newest": "Più recenti",
+    "oldest": "Meno recenti",
+    "priceAsc": "Prezzo (crescente)",
+    "priceDesc": "Prezzo (decrescente)"
+  },
+  "sortOptions": {
+    "newest": "Più recenti",
+    "oldest": "Meno recenti",
+    "priceLowHigh": "Prezzo: Crescente",
+    "priceHighLow": "Prezzo: Decrescente",
+    "surfaceLargest": "Superficie maggiore",
+    "mostRooms": "Più locali"
+  },
+  "seo": {
+    "title": "Immobili in affitto e in vendita in Svizzera",
+    "description": "Sfoglia appartamenti, case e immobili commerciali in affitto e in vendita in tutta la Svizzera."
+  },
+  "detail": {
+    "description": "Descrizione",
+    "features": "Caratteristiche",
+    "amenities": "Dotazioni",
+    "location": "Posizione",
+    "gallery": "Galleria",
+    "contact": "Contatto",
+    "share": "Condividi",
+    "print": "Stampa",
+    "report": "Segnala annuncio",
+    "price": "Prezzo",
+    "additionalCosts": "costi aggiuntivi",
+    "surface": "Superficie",
+    "address": "Indirizzo",
+    "city": "Città",
+    "canton": "Cantone",
+    "postalCode": "Codice postale",
+    "nearby": "Nelle vicinanze",
+    "publishedOn": "Pubblicato il",
+    "reference": "Riferimento",
+    "notFound": "Immobile non trovato",
+    "notFoundDescription": "L'immobile che stai cercando non esiste o è stato rimosso.",
+    "backToList": "Torna agli immobili"
+  },
+  "features": {
+    "rooms": "Locali",
+    "bedrooms": "Camere da letto",
+    "bathrooms": "Bagni",
+    "surface": "Superficie abitabile",
+    "floor": "Piano",
+    "yearBuilt": "Anno di costruzione",
+    "availableFrom": "Disponibile dal",
+    "parking": "Parcheggio"
+  },
+  "card": {
+    "new": "Nuovo",
+    "featured": "In evidenza",
+    "reduced": "Prezzo ridotto",
+    "viewDetails": "Vedi dettagli"
+  },
+  "contact": {
+    "title": "Contatta per questo immobile",
+    "listedBy": "Pubblicato da",
+    "name": "Il tuo nome",
+    "email": "La tua email",
+    "phone": "Il tuo telefono",
+    "message": "Il tuo messaggio",
+    "defaultMessage": "Sono interessato all'immobile: {title}",
+    "messagePlaceholder": "Sono interessato a questo immobile...",
+    "send": "Invia messaggio",
+    "call": "Chiama",
+    "success": "Il tuo messaggio è stato inviato con successo",
+    "error": "Invio del messaggio fallito. Riprova."
+  },
+  "agency": {
+    "title": "Pubblicato da",
+    "viewProfile": "Vedi profilo agenzia",
+    "allListings": "Vedi tutti gli annunci"
+  },
+  "similar": {
+    "title": "Immobili simili",
+    "viewAll": "Vedi tutti simili"
+  },
+  "proximity": {
+    "title": "Nelle vicinanze",
+    "publicTransport": "Trasporti pubblici",
+    "schools": "Scuole",
+    "shopping": "Negozi",
+    "restaurants": "Ristoranti"
+  },
+  "map": {
+    "title": "Posizione",
+    "noLocation": "Posizione non disponibile per questo immobile"
+  },
+  "form": {
+    "createTitle": "Crea nuovo immobile",
+    "editTitle": "Modifica immobile",
+    "steps": {
+      "basicInfo": "Info base",
+      "location": "Posizione",
+      "details": "Dettagli",
+      "amenities": "Dotazioni",
+      "photos": "Foto",
+      "review": "Revisione"
+    },
+    "basicInfo": {
+      "title": "Informazioni di base",
+      "description": "Inizia inserendo i dettagli essenziali del tuo immobile",
+      "transactionType": "Tipo di transazione",
+      "rent": "In affitto",
+      "buy": "In vendita",
+      "category": "Tipo di immobile",
+      "categoryPlaceholder": "Seleziona un tipo di immobile",
+      "propertyTitle": "Titolo dell'immobile",
+      "propertyTitlePlaceholder": "es. Bellissimo appartamento di 3 locali a Zurigo",
+      "propertyDescription": "Descrizione",
+      "propertyDescriptionPlaceholder": "Descrivi il tuo immobile in dettaglio...",
+      "sourceLanguage": "Lingua dell'annuncio"
+    },
+    "location": {
+      "title": "Dettagli posizione",
+      "description": "Aiuta acquirenti o affittuari a trovare il tuo immobile",
+      "canton": "Cantone",
+      "cantonPlaceholder": "Seleziona un cantone",
+      "city": "Città",
+      "cityPlaceholder": "Seleziona una città",
+      "selectCantonFirst": "Seleziona prima un cantone",
+      "address": "Indirizzo",
+      "addressPlaceholder": "es. Bahnhofstrasse 10",
+      "postalCode": "Codice postale",
+      "postalCodePlaceholder": "es. 8001"
+    },
+    "details": {
+      "title": "Dettagli immobile",
+      "description": "Fornisci specifiche e informazioni sui prezzi",
+      "price": "Prezzo",
+      "pricePlaceholder": "es. 2500",
+      "priceHintRent": "Affitto mensile in CHF",
+      "priceHintBuy": "Prezzo di vendita in CHF",
+      "additionalCosts": "Costi aggiuntivi",
+      "rooms": "Numero di locali",
+      "roomsPlaceholder": "es. 3.5",
+      "surface": "Superficie abitabile",
+      "surfacePlaceholder": "es. 85"
+    },
+    "amenities": {
+      "title": "Dotazioni e caratteristiche",
+      "description": "Seleziona tutte le dotazioni e caratteristiche del tuo immobile",
+      "selectedCount": "{count} dotazioni selezionate"
+    },
+    "photos": {
+      "title": "Foto dell'immobile",
+      "description": "Carica foto di alta qualità per attirare più interesse",
+      "dropzone": "Trascina le foto qui o clicca per selezionare",
+      "uploading": "Caricamento...",
+      "setPrimary": "Imposta come principale",
+      "primaryImage": "Immagine principale",
+      "imageCount": "{count} di {max} foto"
+    },
+    "review": {
+      "title": "Rivedi il tuo annuncio",
+      "description": "Rivedi tutti i dettagli prima dell'invio"
+    },
+    "actions": {
+      "next": "Avanti",
+      "previous": "Precedente",
+      "saveDraft": "Salva come bozza",
+      "submit": "Invia per revisione",
+      "submitting": "Invio in corso...",
+      "cancel": "Annulla",
+      "saveChanges": "Salva modifiche",
+      "saving": "Salvataggio...",
+      "backToProperties": "Torna ai miei immobili"
+    },
+    "validation": {
+      "required": "Questo campo è obbligatorio",
+      "selectCategory": "Seleziona un tipo di immobile",
+      "selectCanton": "Seleziona un cantone",
+      "selectCity": "Seleziona una città",
+      "enterTitle": "Inserisci un titolo",
+      "enterDescription": "Inserisci una descrizione",
+      "enterAddress": "Inserisci l'indirizzo",
+      "enterPrice": "Inserisci un prezzo",
+      "invalidPrice": "Inserisci un prezzo valido"
+    },
+    "success": {
+      "created": "Immobile creato con successo!",
+      "updated": "Immobile aggiornato con successo!",
+      "draftSaved": "Bozza salvata con successo!"
+    },
+    "error": {
+      "createFailed": "Creazione dell'immobile fallita",
+      "updateFailed": "Aggiornamento dell'immobile fallito",
+      "uploadFailed": "Caricamento delle immagini fallito",
+      "notFound": "Immobile non trovato"
+    }
+  }
+}

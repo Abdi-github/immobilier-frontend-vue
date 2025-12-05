@@ -1,0 +1,337 @@
+{
+  "app": {
+    "name": "Immobilier.ch",
+    "tagline": "Swiss Real Estate Platform"
+  },
+  "nav": {
+    "home": "Home",
+    "properties": "Properties",
+    "residential": "Residential",
+    "commercial": "Commercial",
+    "rent": "Rent",
+    "buy": "Buy",
+    "agencies": "Agencies",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Log in",
+    "register": "Register",
+    "myAccount": "My Account",
+    "dashboard": "Dashboard",
+    "profile": "My Profile",
+    "favorites": "Favorites",
+    "alerts": "Alerts",
+    "inquiries": "Inquiries",
+    "settings": "Settings",
+    "logout": "Log out",
+    "search": "Search"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français",
+    "de": "Deutsch",
+    "it": "Italiano",
+    "select": "Select language"
+  },
+  "transaction": {
+    "rent": "Rent",
+    "buy": "Buy",
+    "forRent": "For Rent",
+    "forSale": "For Sale"
+  },
+  "units": {
+    "chf": "CHF",
+    "perMonth": "/month",
+    "sqm": "m²",
+    "rooms": "rooms",
+    "room": "room"
+  },
+  "rooms_one": "room",
+  "rooms_other": "rooms",
+  "property_one": "property",
+  "property_other": "properties",
+  "actions": {
+    "search": "Search",
+    "filter": "Filter",
+    "reset": "Reset",
+    "apply": "Apply",
+    "clear": "Clear",
+    "clearAll": "Clear all",
+    "clearFilters": "Clear filters",
+    "showMore": "Show more",
+    "showLess": "Show less",
+    "viewDetails": "View details",
+    "contact": "Contact",
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "back": "Back",
+    "goBack": "Go back",
+    "next": "Next",
+    "previous": "Previous",
+    "send": "Send message",
+    "sending": "Sending...",
+    "retry": "Try again"
+  },
+  "filters": {
+    "all": "All",
+    "allLocations": "All locations",
+    "allTypes": "All types",
+    "allCantons": "All cantons",
+    "allCities": "All cities",
+    "selectCanton": "Select canton",
+    "selectCity": "Select city",
+    "min": "Min",
+    "max": "Max"
+  },
+  "form": {
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "firstName": "First Name",
+    "firstNamePlaceholder": "John",
+    "lastName": "Last Name",
+    "lastNamePlaceholder": "Doe",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "phone": "Phone",
+    "phonePlaceholder": "+41 XX XXX XX XX",
+    "message": "Message",
+    "messagePlaceholder": "Your message..."
+  },
+  "errors": {
+    "notFound": "Page not found",
+    "pageNotFound": "Page not found",
+    "pageNotFoundDescription": "The page you are looking for does not exist or has been moved.",
+    "notFoundMessage": "The page you are looking for does not exist.",
+    "serverError": "Server error",
+    "serverErrorMessage": "Something went wrong. Please try again later.",
+    "networkError": "Network error",
+    "networkErrorMessage": "Please check your internet connection.",
+    "loadFailed": "Failed to load data. Please try again."
+  },
+  "loading": {
+    "default": "Loading...",
+    "properties": "Loading properties...",
+    "images": "Loading images..."
+  },
+  "footer": {
+    "about": "About",
+    "aboutUs": "About Us",
+    "whoAreWe": "Who are we?",
+    "getInTouch": "Get in touch with us",
+    "careers": "Careers",
+    "press": "Press",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "contactUs": "Contact Us",
+    "faq": "FAQ",
+    "legal": "Legal",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy",
+    "advertising": "Advertising",
+    "follow": "Follow Us",
+    "newsletter": "Newsletter",
+    "subscribeNewsletter": "Subscribe to our newsletter",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "copyright": "© {year} Immobilier.ch. All rights reserved.",
+    "rights": "All rights reserved.",
+    "ourListings": "Our listings",
+    "buy": "Buy",
+    "rent": "Rent",
+    "agencies": "Agencies",
+    "directory": "Directory",
+    "forProfessionals": "For Professionals",
+    "listProperty": "List your property",
+    "registerAgency": "Register your agency",
+    "professionals": "The professionals",
+    "usefulLinks": "Useful links"
+  },
+  "pagination": {
+    "page": "Page",
+    "of": "of",
+    "showing": "Showing",
+    "to": "to",
+    "results": "results",
+    "first": "First",
+    "last": "Last",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "about": {
+    "title": "About Immobilier.ch",
+    "subtitle": "Switzerland's leading real estate platform, connecting property seekers with their dream homes since 2024.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "Immobilier.ch is dedicated to simplifying the Swiss real estate market. Whether you're looking to rent an apartment in Zurich, buy a house in Geneva, or find commercial space in Bern, our platform provides comprehensive property listings with advanced search capabilities, multi-language support, and direct connections to trusted agencies and property owners."
+    },
+    "values": {
+      "title": "What Sets Us Apart",
+      "quality": {
+        "title": "Quality Listings",
+        "description": "Every property listing is verified and moderated to ensure accuracy and quality for our users."
+      },
+      "trust": {
+        "title": "Trusted Partners",
+        "description": "We work with verified agencies and property owners across all Swiss cantons."
+      },
+      "multilingual": {
+        "title": "Multilingual",
+        "description": "Our platform is available in English, French, German, and Italian to serve all of Switzerland."
+      },
+      "security": {
+        "title": "Data Security",
+        "description": "Your personal data is protected with industry-standard security measures and Swiss privacy laws."
+      }
+    },
+    "stats": {
+      "title": "Immobilier.ch in Numbers",
+      "cantons": "Cantons Covered",
+      "properties": "Property Listings",
+      "agencies": "Trusted Agencies",
+      "languages": "Languages"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have a question or need assistance? We're here to help.",
+    "successToast": "Message sent successfully!",
+    "info": {
+      "title": "Get in Touch",
+      "description": "Our team is available Monday to Friday, 9:00 - 18:00 CET.",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    },
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "subject": "Subject",
+      "selectSubject": "Select a subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "sending": "Sending..."
+    },
+    "subjects": {
+      "general": "General Inquiry",
+      "listing": "Property Listing",
+      "account": "Account Issue",
+      "agency": "Agency Partnership",
+      "feedback": "Feedback",
+      "other": "Other"
+    },
+    "success": {
+      "title": "Message Sent!",
+      "description": "Thank you for reaching out. We will get back to you within 1-2 business days.",
+      "sendAnother": "Send Another Message"
+    }
+  },
+  "terms": {
+    "title": "Terms and Conditions",
+    "lastUpdated": "Last updated: January 1, 2026",
+    "sections": {
+      "acceptance": {
+        "title": "1. Acceptance of Terms",
+        "text": "By accessing and using Immobilier.ch, you agree to be bound by these Terms and Conditions. If you do not agree with any part of these terms, you may not use our services."
+      },
+      "services": {
+        "title": "2. Description of Services",
+        "text": "Immobilier.ch provides an online platform for real estate listings in Switzerland. We connect property seekers with property owners and real estate agencies. We do not own or manage any properties listed on our platform."
+      },
+      "accounts": {
+        "title": "3. User Accounts",
+        "text": "You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You must notify us immediately of any unauthorized use of your account."
+      },
+      "listings": {
+        "title": "4. Property Listings",
+        "text": "Property listings are provided by third-party agencies and property owners. While we strive to ensure accuracy, Immobilier.ch is not responsible for the accuracy, completeness, or availability of any listing information."
+      },
+      "intellectual": {
+        "title": "5. Intellectual Property",
+        "text": "All content on Immobilier.ch, including text, graphics, logos, and software, is the property of Immobilier.ch or its content suppliers and is protected by Swiss and international copyright laws."
+      },
+      "limitation": {
+        "title": "6. Limitation of Liability",
+        "text": "Immobilier.ch shall not be liable for any direct, indirect, incidental, special, or consequential damages resulting from the use or inability to use our services."
+      },
+      "law": {
+        "title": "7. Governing Law",
+        "text": "These terms are governed by the laws of Switzerland. Any disputes arising from these terms shall be subject to the exclusive jurisdiction of the courts of Geneva, Switzerland."
+      },
+      "contact": {
+        "title": "8. Contact",
+        "text": "For questions about these terms, please contact us at legal@immobilier.ch."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: January 1, 2026",
+    "sections": {
+      "overview": {
+        "title": "1. Overview",
+        "text": "Immobilier.ch is committed to protecting your privacy. This policy explains how we collect, use, and safeguard your personal data in accordance with Swiss Federal Act on Data Protection (FADP) and the General Data Protection Regulation (GDPR)."
+      },
+      "collection": {
+        "title": "2. Data Collection",
+        "text": "We collect personal data that you provide directly (name, email, phone number) when creating an account, submitting inquiries, or using our services. We also collect usage data such as browser type, IP address, and pages visited."
+      },
+      "usage": {
+        "title": "3. How We Use Your Data",
+        "text": "Your data is used to provide and improve our services, process property inquiries, send property alerts, communicate with you about your account, and comply with legal obligations."
+      },
+      "sharing": {
+        "title": "4. Data Sharing",
+        "text": "We share your contact information with property owners and agencies only when you submit a property inquiry. We do not sell your personal data to third parties."
+      },
+      "cookies": {
+        "title": "5. Cookies",
+        "text": "We use essential cookies for authentication and session management. Analytics cookies are used to understand how visitors interact with our website. You can manage cookie preferences through your browser settings."
+      },
+      "rights": {
+        "title": "6. Your Rights",
+        "text": "You have the right to access, correct, delete, or export your personal data at any time. You can also object to data processing or withdraw consent. To exercise these rights, contact us at privacy@immobilier.ch."
+      },
+      "security": {
+        "title": "7. Data Security",
+        "text": "We implement industry-standard security measures including encryption, secure servers, and regular security audits to protect your personal data. All data is stored on servers located in Switzerland."
+      },
+      "retention": {
+        "title": "8. Data Retention",
+        "text": "We retain your personal data only as long as necessary to fulfill the purposes outlined in this policy. Account data is deleted within 30 days of account closure."
+      },
+      "contact": {
+        "title": "9. Contact",
+        "text": "For privacy-related inquiries, contact our Data Protection Officer at privacy@immobilier.ch or write to us at Rue du Marché 1, 1204 Genève, Switzerland."
+      }
+    }
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "heading": "Stay Updated on Swiss Real Estate",
+    "subtitle": "Subscribe to our newsletter and never miss a new listing or market update.",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "your@email.com",
+    "subscribe": "Subscribe",
+    "subscribing": "Subscribing...",
+    "success": "Successfully subscribed!",
+    "successTitle": "You're Subscribed!",
+    "successDescription": "You'll receive the latest Swiss real estate updates in your inbox.",
+    "invalidEmail": "Please enter a valid email address",
+    "error": "Subscription failed. Please try again.",
+    "features": {
+      "newListings": "New Property Listings",
+      "newListingsDesc": "Be the first to know about new properties matching your criteria.",
+      "marketInsights": "Market Insights",
+      "marketInsightsDesc": "Stay informed about Swiss real estate market trends and prices.",
+      "priceAlerts": "Price Change Alerts",
+      "priceAlertsDesc": "Get notified when property prices change in your areas of interest."
+    }
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for does not exist or has been moved.",
+    "goHome": "Go to Homepage"
+  }
+}

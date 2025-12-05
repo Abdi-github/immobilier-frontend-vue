@@ -1,0 +1,239 @@
+{
+  "list": {
+    "title": "Immobilien",
+    "results": "{count} Immobilien gefunden",
+    "resultsRange": "{start}-{end} von {total} Immobilien gefunden",
+    "pageIndicator": "Seite {current} von {total}",
+    "noResults": "Keine Immobilien gefunden",
+    "noResultsHint": "Versuchen Sie, Ihre Suchkriterien anzupassen",
+    "loading": "Immobilien werden geladen...",
+    "searchPlaceholder": "Immobilien suchen...",
+    "createAlert": "E-Mail-Benachrichtigung erstellen",
+    "rentIn": "Mieten in der Schweiz",
+    "buyIn": "Kaufen in der Schweiz",
+    "listView": "Liste",
+    "map": "Karte",
+    "sort": "Sortieren",
+    "alertBanner": {
+      "subtitle": "Neue Immobilien per E-Mail erhalten",
+      "cta": "E-Mail-Benachrichtigung erstellen"
+    }
+  },
+  "filters": {
+    "title": "Filter",
+    "transactionType": "Transaktionstyp",
+    "rent": "Mieten",
+    "buy": "Kaufen",
+    "rentAmount": "Mietzins",
+    "price": "Preis",
+    "category": "Immobilientyp",
+    "location": "Standort",
+    "priceRange": "Preisspanne",
+    "rooms": "Zimmer",
+    "surface": "Fläche",
+    "propertyType": "Immobilientyp",
+    "typesSelected": "Typen",
+    "searchLocation": "Stadt, PLZ oder Kanton suchen...",
+    "noLocationsFound": "Keine Standorte gefunden",
+    "canton": "Kanton",
+    "addLocation": "Hinzufügen",
+    "clearLocations": "Alle Standorte löschen"
+  },
+  "sort": {
+    "placeholder": "Sortieren nach",
+    "topOffers": "TOP Angebote",
+    "newest": "Neueste zuerst",
+    "oldest": "Älteste zuerst",
+    "priceAsc": "Preis (aufsteigend)",
+    "priceDesc": "Preis (absteigend)"
+  },
+  "sortOptions": {
+    "newest": "Neueste zuerst",
+    "oldest": "Älteste zuerst",
+    "priceLowHigh": "Preis: Aufsteigend",
+    "priceHighLow": "Preis: Absteigend",
+    "surfaceLargest": "Grösste Fläche",
+    "mostRooms": "Meiste Zimmer"
+  },
+  "seo": {
+    "title": "Immobilien zur Miete & zum Kauf in der Schweiz",
+    "description": "Durchsuchen Sie Wohnungen, Häuser und Gewerbeimmobilien zur Miete und zum Kauf in der Schweiz."
+  },
+  "detail": {
+    "description": "Beschreibung",
+    "features": "Merkmale",
+    "amenities": "Ausstattung",
+    "location": "Standort",
+    "gallery": "Galerie",
+    "contact": "Kontakt",
+    "share": "Teilen",
+    "print": "Drucken",
+    "report": "Inserat melden",
+    "price": "Preis",
+    "additionalCosts": "Nebenkosten",
+    "surface": "Fläche",
+    "address": "Adresse",
+    "city": "Stadt",
+    "canton": "Kanton",
+    "postalCode": "Postleitzahl",
+    "nearby": "In der Nähe",
+    "publishedOn": "Veröffentlicht am",
+    "reference": "Referenz",
+    "notFound": "Immobilie nicht gefunden",
+    "notFoundDescription": "Die gesuchte Immobilie existiert nicht oder wurde entfernt.",
+    "backToList": "Zurück zu den Immobilien"
+  },
+  "features": {
+    "rooms": "Zimmer",
+    "bedrooms": "Schlafzimmer",
+    "bathrooms": "Badezimmer",
+    "surface": "Wohnfläche",
+    "floor": "Stockwerk",
+    "yearBuilt": "Baujahr",
+    "availableFrom": "Verfügbar ab",
+    "parking": "Parkplatz"
+  },
+  "card": {
+    "new": "Neu",
+    "featured": "Hervorgehoben",
+    "reduced": "Preisreduziert",
+    "viewDetails": "Details anzeigen"
+  },
+  "contact": {
+    "title": "Kontakt zu dieser Immobilie",
+    "listedBy": "Inseriert von",
+    "name": "Ihr Name",
+    "email": "Ihre E-Mail",
+    "phone": "Ihre Telefonnummer",
+    "message": "Ihre Nachricht",
+    "defaultMessage": "Ich interessiere mich für die Immobilie: {title}",
+    "messagePlaceholder": "Ich interessiere mich für diese Immobilie...",
+    "send": "Nachricht senden",
+    "call": "Anrufen",
+    "success": "Ihre Nachricht wurde erfolgreich gesendet",
+    "error": "Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es erneut."
+  },
+  "agency": {
+    "title": "Inseriert von",
+    "viewProfile": "Agenturprofil anzeigen",
+    "allListings": "Alle Inserate anzeigen"
+  },
+  "similar": {
+    "title": "Ähnliche Immobilien",
+    "viewAll": "Alle ähnlichen anzeigen"
+  },
+  "proximity": {
+    "title": "In der Nähe",
+    "publicTransport": "Öffentlicher Verkehr",
+    "schools": "Schulen",
+    "shopping": "Einkaufen",
+    "restaurants": "Restaurants"
+  },
+  "map": {
+    "title": "Standort",
+    "noLocation": "Standort für diese Immobilie nicht verfügbar"
+  },
+  "form": {
+    "createTitle": "Neue Immobilie erstellen",
+    "editTitle": "Immobilie bearbeiten",
+    "steps": {
+      "basicInfo": "Grunddaten",
+      "location": "Standort",
+      "details": "Details",
+      "amenities": "Ausstattung",
+      "photos": "Fotos",
+      "review": "Überprüfung"
+    },
+    "basicInfo": {
+      "title": "Grundinformationen",
+      "description": "Beginnen Sie mit den wesentlichen Details Ihrer Immobilie",
+      "transactionType": "Transaktionstyp",
+      "rent": "Zu vermieten",
+      "buy": "Zu verkaufen",
+      "category": "Immobilientyp",
+      "categoryPlaceholder": "Immobilientyp wählen",
+      "propertyTitle": "Immobilientitel",
+      "propertyTitlePlaceholder": "z.B. Schöne 3-Zimmer-Wohnung in Zürich",
+      "propertyDescription": "Beschreibung",
+      "propertyDescriptionPlaceholder": "Beschreiben Sie Ihre Immobilie im Detail...",
+      "sourceLanguage": "Inseratssprache"
+    },
+    "location": {
+      "title": "Standortdetails",
+      "description": "Helfen Sie Käufern oder Mietern, Ihre Immobilie zu finden",
+      "canton": "Kanton",
+      "cantonPlaceholder": "Kanton wählen",
+      "city": "Stadt",
+      "cityPlaceholder": "Stadt wählen",
+      "selectCantonFirst": "Bitte wählen Sie zuerst einen Kanton",
+      "address": "Strasse",
+      "addressPlaceholder": "z.B. Bahnhofstrasse 10",
+      "postalCode": "Postleitzahl",
+      "postalCodePlaceholder": "z.B. 8001"
+    },
+    "details": {
+      "title": "Immobiliendetails",
+      "description": "Geben Sie Spezifikationen und Preisinformationen an",
+      "price": "Preis",
+      "pricePlaceholder": "z.B. 2500",
+      "priceHintRent": "Monatliche Miete in CHF",
+      "priceHintBuy": "Verkaufspreis in CHF",
+      "additionalCosts": "Nebenkosten",
+      "rooms": "Anzahl Zimmer",
+      "roomsPlaceholder": "z.B. 3.5",
+      "surface": "Wohnfläche",
+      "surfacePlaceholder": "z.B. 85"
+    },
+    "amenities": {
+      "title": "Ausstattung & Merkmale",
+      "description": "Wählen Sie alle Ausstattungsmerkmale Ihrer Immobilie",
+      "selectedCount": "{count} Ausstattungen ausgewählt"
+    },
+    "photos": {
+      "title": "Immobilienfotos",
+      "description": "Laden Sie hochwertige Fotos hoch, um mehr Interesse zu wecken",
+      "dropzone": "Fotos hierher ziehen oder klicken zum Auswählen",
+      "uploading": "Wird hochgeladen...",
+      "setPrimary": "Als Hauptbild setzen",
+      "primaryImage": "Hauptbild",
+      "imageCount": "{count} von {max} Fotos"
+    },
+    "review": {
+      "title": "Inserat überprüfen",
+      "description": "Bitte überprüfen Sie alle Details vor dem Absenden"
+    },
+    "actions": {
+      "next": "Weiter",
+      "previous": "Zurück",
+      "saveDraft": "Als Entwurf speichern",
+      "submit": "Zur Überprüfung einreichen",
+      "submitting": "Wird eingereicht...",
+      "cancel": "Abbrechen",
+      "saveChanges": "Änderungen speichern",
+      "saving": "Wird gespeichert...",
+      "backToProperties": "Zurück zu meinen Immobilien"
+    },
+    "validation": {
+      "required": "Dieses Feld ist erforderlich",
+      "selectCategory": "Bitte wählen Sie einen Immobilientyp",
+      "selectCanton": "Bitte wählen Sie einen Kanton",
+      "selectCity": "Bitte wählen Sie eine Stadt",
+      "enterTitle": "Bitte geben Sie einen Titel ein",
+      "enterDescription": "Bitte geben Sie eine Beschreibung ein",
+      "enterAddress": "Bitte geben Sie die Strasse ein",
+      "enterPrice": "Bitte geben Sie einen Preis ein",
+      "invalidPrice": "Bitte geben Sie einen gültigen Preis ein"
+    },
+    "success": {
+      "created": "Immobilie erfolgreich erstellt!",
+      "updated": "Immobilie erfolgreich aktualisiert!",
+      "draftSaved": "Entwurf erfolgreich gespeichert!"
+    },
+    "error": {
+      "createFailed": "Erstellen der Immobilie fehlgeschlagen",
+      "updateFailed": "Aktualisieren der Immobilie fehlgeschlagen",
+      "uploadFailed": "Hochladen der Bilder fehlgeschlagen",
+      "notFound": "Immobilie nicht gefunden"
+    }
+  }
+}

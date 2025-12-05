@@ -1,0 +1,337 @@
+{
+  "app": {
+    "name": "Immobilier.ch",
+    "tagline": "Schweizer Immobilienplattform"
+  },
+  "nav": {
+    "home": "Startseite",
+    "properties": "Immobilien",
+    "residential": "Wohnen",
+    "commercial": "Gewerbe",
+    "rent": "Mieten",
+    "buy": "Kaufen",
+    "agencies": "Agenturen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "myAccount": "Mein Konto",
+    "dashboard": "Dashboard",
+    "profile": "Mein Profil",
+    "favorites": "Favoriten",
+    "alerts": "Benachrichtigungen",
+    "inquiries": "Anfragen",
+    "settings": "Einstellungen",
+    "logout": "Abmelden",
+    "search": "Suche"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français",
+    "de": "Deutsch",
+    "it": "Italiano",
+    "select": "Sprache wählen"
+  },
+  "transaction": {
+    "rent": "Mieten",
+    "buy": "Kaufen",
+    "forRent": "Zu vermieten",
+    "forSale": "Zu verkaufen"
+  },
+  "units": {
+    "chf": "CHF",
+    "perMonth": "/Monat",
+    "sqm": "m²",
+    "rooms": "Zimmer",
+    "room": "Zimmer"
+  },
+  "rooms_one": "Zimmer",
+  "rooms_other": "Zimmer",
+  "property_one": "Immobilie",
+  "property_other": "Immobilien",
+  "actions": {
+    "search": "Suchen",
+    "filter": "Filtern",
+    "reset": "Zurücksetzen",
+    "apply": "Anwenden",
+    "clear": "Löschen",
+    "clearAll": "Alle löschen",
+    "clearFilters": "Filter löschen",
+    "showMore": "Mehr anzeigen",
+    "showLess": "Weniger anzeigen",
+    "viewDetails": "Details anzeigen",
+    "contact": "Kontaktieren",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "close": "Schliessen",
+    "back": "Zurück",
+    "goBack": "Zurückgehen",
+    "next": "Weiter",
+    "previous": "Zurück",
+    "send": "Nachricht senden",
+    "sending": "Wird gesendet...",
+    "retry": "Erneut versuchen"
+  },
+  "filters": {
+    "all": "Alle",
+    "allLocations": "Alle Standorte",
+    "allTypes": "Alle Typen",
+    "allCantons": "Alle Kantone",
+    "allCities": "Alle Städte",
+    "selectCanton": "Kanton wählen",
+    "selectCity": "Stadt wählen",
+    "min": "Min",
+    "max": "Max"
+  },
+  "form": {
+    "name": "Name",
+    "namePlaceholder": "Ihr Name",
+    "firstName": "Vorname",
+    "firstNamePlaceholder": "Max",
+    "lastName": "Nachname",
+    "lastNamePlaceholder": "Müller",
+    "email": "E-Mail",
+    "emailPlaceholder": "ihre@email.ch",
+    "phone": "Telefon",
+    "phonePlaceholder": "+41 XX XXX XX XX",
+    "message": "Nachricht",
+    "messagePlaceholder": "Ihre Nachricht..."
+  },
+  "errors": {
+    "notFound": "Seite nicht gefunden",
+    "pageNotFound": "Seite nicht gefunden",
+    "pageNotFoundDescription": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "notFoundMessage": "Die gesuchte Seite existiert nicht.",
+    "serverError": "Serverfehler",
+    "serverErrorMessage": "Etwas ist schiefgelaufen. Bitte versuchen Sie es später erneut.",
+    "networkError": "Netzwerkfehler",
+    "networkErrorMessage": "Bitte überprüfen Sie Ihre Internetverbindung.",
+    "loadFailed": "Laden der Daten fehlgeschlagen. Bitte versuchen Sie es erneut."
+  },
+  "loading": {
+    "default": "Wird geladen...",
+    "properties": "Immobilien werden geladen...",
+    "images": "Bilder werden geladen..."
+  },
+  "footer": {
+    "about": "Über uns",
+    "aboutUs": "Über uns",
+    "whoAreWe": "Wer sind wir?",
+    "getInTouch": "Kontaktieren Sie uns",
+    "careers": "Karriere",
+    "press": "Presse",
+    "support": "Support",
+    "helpCenter": "Hilfecenter",
+    "contactUs": "Kontakt",
+    "faq": "FAQ",
+    "legal": "Rechtliches",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutzerklärung",
+    "cookies": "Cookie-Richtlinie",
+    "advertising": "Werbung",
+    "follow": "Folgen Sie uns",
+    "newsletter": "Newsletter",
+    "subscribeNewsletter": "Abonnieren Sie unseren Newsletter",
+    "emailPlaceholder": "Ihre E-Mail-Adresse",
+    "subscribe": "Abonnieren",
+    "copyright": "© {year} Immobilier.ch. Alle Rechte vorbehalten.",
+    "rights": "Alle Rechte vorbehalten.",
+    "ourListings": "Unsere Angebote",
+    "buy": "Kaufen",
+    "rent": "Mieten",
+    "agencies": "Agenturen",
+    "directory": "Verzeichnis",
+    "forProfessionals": "Für Profis",
+    "listProperty": "Immobilie inserieren",
+    "registerAgency": "Agentur registrieren",
+    "professionals": "Die Profis",
+    "usefulLinks": "Nützliche Links"
+  },
+  "pagination": {
+    "page": "Seite",
+    "of": "von",
+    "showing": "Anzeige",
+    "to": "bis",
+    "results": "Ergebnisse",
+    "first": "Erste",
+    "last": "Letzte",
+    "previous": "Zurück",
+    "next": "Weiter"
+  },
+  "about": {
+    "title": "Über Immobilier.ch",
+    "subtitle": "Die führende Immobilienplattform der Schweiz, die Immobiliensuchende seit 2024 mit ihrem Traumzuhause verbindet.",
+    "mission": {
+      "title": "Unsere Mission",
+      "text": "Immobilier.ch widmet sich der Vereinfachung des Schweizer Immobilienmarkts. Ob Sie eine Wohnung in Zürich mieten, ein Haus in Genf kaufen oder Gewerbeflächen in Bern suchen – unsere Plattform bietet umfassende Immobilienangebote mit erweiterten Suchfunktionen, Mehrsprachigkeit und direkten Verbindungen zu vertrauenswürdigen Agenturen und Eigentümern."
+    },
+    "values": {
+      "title": "Was uns auszeichnet",
+      "quality": {
+        "title": "Qualitätsangebote",
+        "description": "Jedes Inserat wird geprüft und moderiert, um Genauigkeit und Qualität für unsere Nutzer zu gewährleisten."
+      },
+      "trust": {
+        "title": "Vertrauenswürdige Partner",
+        "description": "Wir arbeiten mit verifizierten Agenturen und Eigentümern in allen Schweizer Kantonen zusammen."
+      },
+      "multilingual": {
+        "title": "Mehrsprachig",
+        "description": "Unsere Plattform ist in Englisch, Französisch, Deutsch und Italienisch verfügbar, um die ganze Schweiz zu bedienen."
+      },
+      "security": {
+        "title": "Datensicherheit",
+        "description": "Ihre persönlichen Daten werden durch branchenübliche Sicherheitsmassnahmen und Schweizer Datenschutzgesetze geschützt."
+      }
+    },
+    "stats": {
+      "title": "Immobilier.ch in Zahlen",
+      "cantons": "Abgedeckte Kantone",
+      "properties": "Immobilienangebote",
+      "agencies": "Vertrauenswürdige Agenturen",
+      "languages": "Sprachen"
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Haben Sie eine Frage oder brauchen Hilfe? Wir sind für Sie da.",
+    "successToast": "Nachricht erfolgreich gesendet!",
+    "info": {
+      "title": "Kontaktieren Sie uns",
+      "description": "Unser Team ist von Montag bis Freitag, 9:00 - 18:00 MEZ erreichbar.",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "address": "Adresse"
+    },
+    "form": {
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "E-Mail",
+      "subject": "Betreff",
+      "selectSubject": "Betreff wählen",
+      "message": "Nachricht",
+      "submit": "Nachricht senden",
+      "sending": "Wird gesendet..."
+    },
+    "subjects": {
+      "general": "Allgemeine Anfrage",
+      "listing": "Immobilieninserat",
+      "account": "Kontoproblem",
+      "agency": "Agenturpartnerschaft",
+      "feedback": "Feedback",
+      "other": "Sonstiges"
+    },
+    "success": {
+      "title": "Nachricht gesendet!",
+      "description": "Vielen Dank für Ihre Nachricht. Wir werden uns innerhalb von 1-2 Werktagen bei Ihnen melden.",
+      "sendAnother": "Weitere Nachricht senden"
+    }
+  },
+  "terms": {
+    "title": "Allgemeine Geschäftsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: 1. Januar 2026",
+    "sections": {
+      "acceptance": {
+        "title": "1. Annahme der Bedingungen",
+        "text": "Durch den Zugriff auf und die Nutzung von Immobilier.ch erklären Sie sich mit diesen Allgemeinen Geschäftsbedingungen einverstanden. Wenn Sie mit einem Teil dieser Bedingungen nicht einverstanden sind, dürfen Sie unsere Dienste nicht nutzen."
+      },
+      "services": {
+        "title": "2. Beschreibung der Dienste",
+        "text": "Immobilier.ch bietet eine Online-Plattform für Immobilieninserate in der Schweiz. Wir verbinden Immobiliensuchende mit Eigentümern und Immobilienagenturen. Wir besitzen oder verwalten keine der auf unserer Plattform gelisteten Immobilien."
+      },
+      "accounts": {
+        "title": "3. Benutzerkonten",
+        "text": "Sie sind für die Vertraulichkeit Ihrer Kontodaten und für alle Aktivitäten verantwortlich, die unter Ihrem Konto stattfinden. Sie müssen uns unverzüglich über jede unbefugte Nutzung Ihres Kontos informieren."
+      },
+      "listings": {
+        "title": "4. Immobilieninserate",
+        "text": "Immobilieninserate werden von Drittanbieter-Agenturen und Eigentümern bereitgestellt. Obwohl wir uns um Genauigkeit bemühen, ist Immobilier.ch nicht verantwortlich für die Richtigkeit, Vollständigkeit oder Verfügbarkeit der Inseratsinformationen."
+      },
+      "intellectual": {
+        "title": "5. Geistiges Eigentum",
+        "text": "Alle Inhalte auf Immobilier.ch, einschliesslich Texte, Grafiken, Logos und Software, sind Eigentum von Immobilier.ch oder seinen Inhaltsanbietern und durch Schweizer und internationale Urheberrechtsgesetze geschützt."
+      },
+      "limitation": {
+        "title": "6. Haftungsbeschränkung",
+        "text": "Immobilier.ch haftet nicht für direkte, indirekte, zufällige, besondere oder Folgeschäden, die sich aus der Nutzung oder der Unfähigkeit zur Nutzung unserer Dienste ergeben."
+      },
+      "law": {
+        "title": "7. Anwendbares Recht",
+        "text": "Diese Bedingungen unterliegen dem Schweizer Recht. Alle Streitigkeiten aus diesen Bedingungen unterliegen der ausschliesslichen Zuständigkeit der Gerichte in Genf, Schweiz."
+      },
+      "contact": {
+        "title": "8. Kontakt",
+        "text": "Für Fragen zu diesen Bedingungen kontaktieren Sie uns bitte unter legal@immobilier.ch."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert: 1. Januar 2026",
+    "sections": {
+      "overview": {
+        "title": "1. Überblick",
+        "text": "Immobilier.ch verpflichtet sich zum Schutz Ihrer Privatsphäre. Diese Richtlinie erklärt, wie wir Ihre persönlichen Daten gemäss dem Schweizer Bundesgesetz über den Datenschutz (DSG) und der Datenschutz-Grundverordnung (DSGVO) erfassen, verwenden und schützen."
+      },
+      "collection": {
+        "title": "2. Datenerfassung",
+        "text": "Wir erheben personenbezogene Daten, die Sie direkt angeben (Name, E-Mail, Telefonnummer), wenn Sie ein Konto erstellen, Anfragen stellen oder unsere Dienste nutzen. Wir erfassen auch Nutzungsdaten wie Browsertyp, IP-Adresse und besuchte Seiten."
+      },
+      "usage": {
+        "title": "3. Verwendung Ihrer Daten",
+        "text": "Ihre Daten werden verwendet, um unsere Dienste bereitzustellen und zu verbessern, Immobilienanfragen zu bearbeiten, Immobilienbenachrichtigungen zu senden, mit Ihnen über Ihr Konto zu kommunizieren und rechtliche Verpflichtungen zu erfüllen."
+      },
+      "sharing": {
+        "title": "4. Datenweitergabe",
+        "text": "Wir geben Ihre Kontaktdaten nur dann an Eigentümer und Agenturen weiter, wenn Sie eine Immobilienanfrage stellen. Wir verkaufen Ihre persönlichen Daten nicht an Dritte."
+      },
+      "cookies": {
+        "title": "5. Cookies",
+        "text": "Wir verwenden wesentliche Cookies für Authentifizierung und Sitzungsverwaltung. Analyse-Cookies werden verwendet, um zu verstehen, wie Besucher mit unserer Website interagieren. Sie können die Cookie-Einstellungen über Ihren Browser verwalten."
+      },
+      "rights": {
+        "title": "6. Ihre Rechte",
+        "text": "Sie haben jederzeit das Recht, auf Ihre persönlichen Daten zuzugreifen, sie zu korrigieren, zu löschen oder zu exportieren. Sie können auch der Datenverarbeitung widersprechen oder Ihre Einwilligung widerrufen. Kontaktieren Sie uns unter privacy@immobilier.ch."
+      },
+      "security": {
+        "title": "7. Datensicherheit",
+        "text": "Wir implementieren branchenübliche Sicherheitsmassnahmen einschliesslich Verschlüsselung, sicherer Server und regelmässiger Sicherheitsaudits zum Schutz Ihrer persönlichen Daten. Alle Daten werden auf Servern in der Schweiz gespeichert."
+      },
+      "retention": {
+        "title": "8. Datenspeicherung",
+        "text": "Wir bewahren Ihre persönlichen Daten nur so lange auf, wie es für die in dieser Richtlinie genannten Zwecke erforderlich ist. Kontodaten werden innerhalb von 30 Tagen nach Kontoauflösung gelöscht."
+      },
+      "contact": {
+        "title": "9. Kontakt",
+        "text": "Für datenschutzbezogene Anfragen kontaktieren Sie unseren Datenschutzbeauftragten unter privacy@immobilier.ch oder schreiben Sie uns an Rue du Marché 1, 1204 Genf, Schweiz."
+      }
+    }
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "heading": "Bleiben Sie über Schweizer Immobilien informiert",
+    "subtitle": "Abonnieren Sie unseren Newsletter und verpassen Sie kein neues Inserat oder Marktupdate.",
+    "emailLabel": "E-Mail-Adresse",
+    "emailPlaceholder": "ihre@email.ch",
+    "subscribe": "Abonnieren",
+    "subscribing": "Wird abonniert...",
+    "success": "Erfolgreich abonniert!",
+    "successTitle": "Sie sind abonniert!",
+    "successDescription": "Sie erhalten die neuesten Schweizer Immobilien-Updates in Ihrem Posteingang.",
+    "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "error": "Abonnement fehlgeschlagen. Bitte versuchen Sie es erneut.",
+    "features": {
+      "newListings": "Neue Immobilieninserate",
+      "newListingsDesc": "Erfahren Sie als Erster von neuen Immobilien, die Ihren Kriterien entsprechen.",
+      "marketInsights": "Markteinblicke",
+      "marketInsightsDesc": "Bleiben Sie über Trends und Preise auf dem Schweizer Immobilienmarkt informiert.",
+      "priceAlerts": "Preisänderungsmeldungen",
+      "priceAlertsDesc": "Werden Sie benachrichtigt, wenn sich Immobilienpreise in Ihren Interessengebieten ändern."
+    }
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "goHome": "Zur Startseite"
+  }
+}

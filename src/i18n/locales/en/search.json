@@ -1,0 +1,47 @@
+{
+  "title": "Search Properties",
+  "filters": {
+    "title": "Filters",
+    "category": "Property type",
+    "allCategories": "All types",
+    "location": "Location",
+    "canton": "Canton",
+    "allCantons": "All cantons",
+    "city": "City",
+    "allCities": "All cities",
+    "price": "Price",
+    "priceMin": "Min price",
+    "priceMax": "Max price",
+    "rooms": "Rooms",
+    "roomsMin": "Min rooms",
+    "roomsMax": "Max rooms",
+    "surface": "Surface area",
+    "surfaceMin": "Min surface",
+    "surfaceMax": "Max surface",
+    "amenities": "Amenities",
+    "moreFilters": "More filters",
+    "lessFilters": "Less filters",
+    "activeFilters": "Active filters: {count}",
+    "clearAll": "Clear all"
+  },
+  "sort": {
+    "label": "Sort by",
+    "newest": "Newest first",
+    "oldest": "Oldest first",
+    "priceAsc": "Price: Low to High",
+    "priceDesc": "Price: High to Low",
+    "roomsAsc": "Rooms: Low to High",
+    "roomsDesc": "Rooms: High to Low"
+  },
+  "view": {
+    "grid": "Grid view",
+    "list": "List view",
+    "map": "Map view"
+  },
+  "results": {
+    "found": "{count} property found | {count} properties found",
+    "showing": "Showing {from} - {to} of {total}",
+    "empty": "No properties match your criteria",
+    "emptyHint": "Try adjusting your filters or expanding your search area"
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "app": {
+    "name": "Immobilier.ch",
+    "tagline": "Plateforme immobilière suisse"
+  },
+  "nav": {
+    "home": "Accueil",
+    "properties": "Biens",
+    "residential": "Résidentiel",
+    "commercial": "Commercial",
+    "rent": "Louer",
+    "buy": "Acheter",
+    "agencies": "Agences",
+    "about": "À propos",
+    "contact": "Contact",
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "myAccount": "Mon compte",
+    "dashboard": "Tableau de bord",
+    "profile": "Mon profil",
+    "favorites": "Favoris",
+    "alerts": "Alertes",
+    "inquiries": "Demandes",
+    "settings": "Paramètres",
+    "logout": "Se déconnecter",
+    "search": "Rechercher"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français",
+    "de": "Deutsch",
+    "it": "Italiano",
+    "select": "Sélectionner la langue"
+  },
+  "transaction": {
+    "rent": "Louer",
+    "buy": "Acheter",
+    "forRent": "À louer",
+    "forSale": "À vendre"
+  },
+  "units": {
+    "chf": "CHF",
+    "perMonth": "/mois",
+    "sqm": "m²",
+    "rooms": "pièces",
+    "room": "pièce"
+  },
+  "rooms_one": "pièce",
+  "rooms_other": "pièces",
+  "property_one": "bien",
+  "property_other": "biens",
+  "actions": {
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "reset": "Réinitialiser",
+    "apply": "Appliquer",
+    "clear": "Effacer",
+    "clearAll": "Tout effacer",
+    "clearFilters": "Effacer les filtres",
+    "showMore": "Voir plus",
+    "showLess": "Voir moins",
+    "viewDetails": "Voir les détails",
+    "contact": "Contacter",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "close": "Fermer",
+    "back": "Retour",
+    "goBack": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "retry": "Réessayer"
+  },
+  "filters": {
+    "all": "Tous",
+    "allLocations": "Tous les emplacements",
+    "allTypes": "Tous les types",
+    "allCantons": "Tous les cantons",
+    "allCities": "Toutes les villes",
+    "selectCanton": "Sélectionner un canton",
+    "selectCity": "Sélectionner une ville",
+    "min": "Min",
+    "max": "Max"
+  },
+  "form": {
+    "name": "Nom",
+    "namePlaceholder": "Votre nom",
+    "firstName": "Prénom",
+    "firstNamePlaceholder": "Jean",
+    "lastName": "Nom",
+    "lastNamePlaceholder": "Dupont",
+    "email": "Email",
+    "emailPlaceholder": "votre@email.com",
+    "phone": "Téléphone",
+    "phonePlaceholder": "+41 XX XXX XX XX",
+    "message": "Message",
+    "messagePlaceholder": "Votre message..."
+  },
+  "errors": {
+    "notFound": "Page non trouvée",
+    "pageNotFound": "Page non trouvée",
+    "pageNotFoundDescription": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "notFoundMessage": "La page que vous recherchez n'existe pas.",
+    "serverError": "Erreur serveur",
+    "serverErrorMessage": "Une erreur est survenue. Veuillez réessayer plus tard.",
+    "networkError": "Erreur réseau",
+    "networkErrorMessage": "Veuillez vérifier votre connexion internet.",
+    "loadFailed": "Échec du chargement des données. Veuillez réessayer."
+  },
+  "loading": {
+    "default": "Chargement...",
+    "properties": "Chargement des biens...",
+    "images": "Chargement des images..."
+  },
+  "footer": {
+    "about": "À propos",
+    "aboutUs": "À propos de nous",
+    "whoAreWe": "Qui sommes-nous ?",
+    "getInTouch": "Contactez-nous",
+    "careers": "Carrières",
+    "press": "Presse",
+    "support": "Support",
+    "helpCenter": "Centre d'aide",
+    "contactUs": "Nous contacter",
+    "faq": "FAQ",
+    "legal": "Juridique",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité",
+    "cookies": "Politique des cookies",
+    "advertising": "Publicité",
+    "follow": "Suivez-nous",
+    "newsletter": "Newsletter",
+    "subscribeNewsletter": "Abonnez-vous à notre newsletter",
+    "emailPlaceholder": "Entrez votre email",
+    "subscribe": "S'abonner",
+    "copyright": "© {year} Immobilier.ch. Tous droits réservés.",
+    "rights": "Tous droits réservés.",
+    "ourListings": "Nos annonces",
+    "buy": "Acheter",
+    "rent": "Louer",
+    "agencies": "Agences",
+    "directory": "Annuaire",
+    "forProfessionals": "Pour les professionnels",
+    "listProperty": "Publier votre bien",
+    "registerAgency": "Enregistrer votre agence",
+    "professionals": "Les professionnels",
+    "usefulLinks": "Liens utiles"
+  },
+  "pagination": {
+    "page": "Page",
+    "of": "de",
+    "showing": "Affichage",
+    "to": "à",
+    "results": "résultats",
+    "first": "Premier",
+    "last": "Dernier",
+    "previous": "Précédent",
+    "next": "Suivant"
+  },
+  "about": {
+    "title": "À propos d'Immobilier.ch",
+    "subtitle": "La plateforme immobilière leader en Suisse, connectant les chercheurs de biens à leur maison de rêve depuis 2024.",
+    "mission": {
+      "title": "Notre mission",
+      "text": "Immobilier.ch se consacre à simplifier le marché immobilier suisse. Que vous cherchiez à louer un appartement à Zurich, acheter une maison à Genève ou trouver un espace commercial à Berne, notre plateforme offre des annonces complètes avec des capacités de recherche avancées, un support multilingue et des connexions directes avec des agences et propriétaires de confiance."
+    },
+    "values": {
+      "title": "Ce qui nous distingue",
+      "quality": {
+        "title": "Annonces de qualité",
+        "description": "Chaque annonce est vérifiée et modérée pour garantir l'exactitude et la qualité pour nos utilisateurs."
+      },
+      "trust": {
+        "title": "Partenaires de confiance",
+        "description": "Nous travaillons avec des agences et propriétaires vérifiés dans tous les cantons suisses."
+      },
+      "multilingual": {
+        "title": "Multilingue",
+        "description": "Notre plateforme est disponible en anglais, français, allemand et italien pour servir toute la Suisse."
+      },
+      "security": {
+        "title": "Sécurité des données",
+        "description": "Vos données personnelles sont protégées par des mesures de sécurité aux normes de l'industrie et les lois suisses sur la vie privée."
+      }
+    },
+    "stats": {
+      "title": "Immobilier.ch en chiffres",
+      "cantons": "Cantons couverts",
+      "properties": "Annonces immobilières",
+      "agencies": "Agences de confiance",
+      "languages": "Langues"
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Vous avez une question ou besoin d'aide ? Nous sommes là pour vous.",
+    "successToast": "Message envoyé avec succès !",
+    "info": {
+      "title": "Nous contacter",
+      "description": "Notre équipe est disponible du lundi au vendredi, de 9h00 à 18h00 CET.",
+      "email": "Email",
+      "phone": "Téléphone",
+      "address": "Adresse"
+    },
+    "form": {
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "selectSubject": "Sélectionnez un sujet",
+      "message": "Message",
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours..."
+    },
+    "subjects": {
+      "general": "Demande générale",
+      "listing": "Annonce immobilière",
+      "account": "Problème de compte",
+      "agency": "Partenariat agence",
+      "feedback": "Commentaires",
+      "other": "Autre"
+    },
+    "success": {
+      "title": "Message envoyé !",
+      "description": "Merci de nous avoir contactés. Nous vous répondrons dans un délai de 1 à 2 jours ouvrables.",
+      "sendAnother": "Envoyer un autre message"
+    }
+  },
+  "terms": {
+    "title": "Conditions générales",
+    "lastUpdated": "Dernière mise à jour : 1er janvier 2026",
+    "sections": {
+      "acceptance": {
+        "title": "1. Acceptation des conditions",
+        "text": "En accédant et en utilisant Immobilier.ch, vous acceptez d'être lié par ces conditions générales. Si vous n'acceptez pas l'une de ces conditions, vous ne pouvez pas utiliser nos services."
+      },
+      "services": {
+        "title": "2. Description des services",
+        "text": "Immobilier.ch fournit une plateforme en ligne pour les annonces immobilières en Suisse. Nous connectons les chercheurs de biens avec les propriétaires et les agences immobilières. Nous ne possédons ni ne gérons les biens listés sur notre plateforme."
+      },
+      "accounts": {
+        "title": "3. Comptes utilisateurs",
+        "text": "Vous êtes responsable de la confidentialité de vos identifiants de compte et de toutes les activités effectuées sous votre compte. Vous devez nous informer immédiatement de toute utilisation non autorisée de votre compte."
+      },
+      "listings": {
+        "title": "4. Annonces immobilières",
+        "text": "Les annonces immobilières sont fournies par des agences et propriétaires tiers. Bien que nous nous efforçons d'assurer l'exactitude, Immobilier.ch n'est pas responsable de l'exactitude, de l'exhaustivité ou de la disponibilité des informations des annonces."
+      },
+      "intellectual": {
+        "title": "5. Propriété intellectuelle",
+        "text": "Tout le contenu d'Immobilier.ch, y compris les textes, graphiques, logos et logiciels, est la propriété d'Immobilier.ch ou de ses fournisseurs de contenu et est protégé par les lois suisses et internationales sur le droit d'auteur."
+      },
+      "limitation": {
+        "title": "6. Limitation de responsabilité",
+        "text": "Immobilier.ch ne peut être tenu responsable de tout dommage direct, indirect, accessoire, spécial ou consécutif résultant de l'utilisation ou de l'impossibilité d'utiliser nos services."
+      },
+      "law": {
+        "title": "7. Droit applicable",
+        "text": "Ces conditions sont régies par les lois de la Suisse. Tout litige découlant de ces conditions sera soumis à la juridiction exclusive des tribunaux de Genève, Suisse."
+      },
+      "contact": {
+        "title": "8. Contact",
+        "text": "Pour toute question concernant ces conditions, veuillez nous contacter à legal@immobilier.ch."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : 1er janvier 2026",
+    "sections": {
+      "overview": {
+        "title": "1. Aperçu",
+        "text": "Immobilier.ch s'engage à protéger votre vie privée. Cette politique explique comment nous collectons, utilisons et protégeons vos données personnelles conformément à la loi fédérale suisse sur la protection des données (LPD) et au règlement général sur la protection des données (RGPD)."
+      },
+      "collection": {
+        "title": "2. Collecte de données",
+        "text": "Nous collectons les données personnelles que vous fournissez directement (nom, email, numéro de téléphone) lors de la création d'un compte, de la soumission de demandes ou de l'utilisation de nos services. Nous collectons également des données d'utilisation telles que le type de navigateur, l'adresse IP et les pages visitées."
+      },
+      "usage": {
+        "title": "3. Utilisation de vos données",
+        "text": "Vos données sont utilisées pour fournir et améliorer nos services, traiter les demandes immobilières, envoyer des alertes, communiquer avec vous concernant votre compte et respecter nos obligations légales."
+      },
+      "sharing": {
+        "title": "4. Partage des données",
+        "text": "Nous partageons vos coordonnées avec les propriétaires et agences uniquement lorsque vous soumettez une demande immobilière. Nous ne vendons pas vos données personnelles à des tiers."
+      },
+      "cookies": {
+        "title": "5. Cookies",
+        "text": "Nous utilisons des cookies essentiels pour l'authentification et la gestion de session. Les cookies d'analyse sont utilisés pour comprendre comment les visiteurs interagissent avec notre site. Vous pouvez gérer vos préférences de cookies dans les paramètres de votre navigateur."
+      },
+      "rights": {
+        "title": "6. Vos droits",
+        "text": "Vous avez le droit d'accéder, de corriger, de supprimer ou d'exporter vos données personnelles à tout moment. Vous pouvez également vous opposer au traitement des données ou retirer votre consentement. Pour exercer ces droits, contactez-nous à privacy@immobilier.ch."
+      },
+      "security": {
+        "title": "7. Sécurité des données",
+        "text": "Nous mettons en œuvre des mesures de sécurité aux normes de l'industrie, y compris le chiffrement, des serveurs sécurisés et des audits de sécurité réguliers pour protéger vos données personnelles. Toutes les données sont stockées sur des serveurs situés en Suisse."
+      },
+      "retention": {
+        "title": "8. Conservation des données",
+        "text": "Nous conservons vos données personnelles uniquement aussi longtemps que nécessaire pour remplir les objectifs décrits dans cette politique. Les données de compte sont supprimées dans les 30 jours suivant la clôture du compte."
+      },
+      "contact": {
+        "title": "9. Contact",
+        "text": "Pour toute question relative à la confidentialité, contactez notre délégué à la protection des données à privacy@immobilier.ch ou écrivez-nous à Rue du Marché 1, 1204 Genève, Suisse."
+      }
+    }
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "heading": "Restez informé sur l'immobilier suisse",
+    "subtitle": "Abonnez-vous à notre newsletter et ne manquez jamais une nouvelle annonce ou mise à jour du marché.",
+    "emailLabel": "Adresse email",
+    "emailPlaceholder": "votre@email.com",
+    "subscribe": "S'abonner",
+    "subscribing": "Inscription...",
+    "success": "Inscription réussie !",
+    "successTitle": "Vous êtes inscrit !",
+    "successDescription": "Vous recevrez les dernières actualités immobilières suisses dans votre boîte de réception.",
+    "invalidEmail": "Veuillez entrer une adresse email valide",
+    "error": "L'inscription a échoué. Veuillez réessayer.",
+    "features": {
+      "newListings": "Nouvelles annonces",
+      "newListingsDesc": "Soyez le premier informé des nouvelles propriétés correspondant à vos critères.",
+      "marketInsights": "Aperçus du marché",
+      "marketInsightsDesc": "Restez informé des tendances et prix du marché immobilier suisse.",
+      "priceAlerts": "Alertes de prix",
+      "priceAlertsDesc": "Soyez notifié lorsque les prix changent dans vos zones d'intérêt."
+    }
+  },
+  "notFound": {
+    "title": "Page non trouvée",
+    "description": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "goHome": "Retour à l'accueil"
+  }
+}
