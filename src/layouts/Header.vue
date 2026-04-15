@@ -73,7 +73,10 @@ const userInitials = computed(() => {
     <div class="mx-auto flex h-14 max-w-7xl items-center justify-between px-4">
       <!-- Logo -->
       <router-link :to="{ name: 'home', params: { lang } }" class="flex shrink-0 items-center">
-        <img src="/logo.svg" alt="immobilier.ch" class="h-8" /nter Navigation -->
+        <img src="/logo.svg" alt="immobilier.ch" class="h-8" />
+      </router-link>
+
+      <!-- Center Navigation -->
       <nav class="hidden items-center gap-1 lg:flex">
         <router-link
           v-for="item in navItems"
