@@ -15,7 +15,10 @@ const currentYear = new Date().getFullYear();
         <!-- Logo and Social -->
         <div class="space-y-4 lg:col-span-2">
           <router-link :to="{ name: 'home', params: { lang } }" class="inline-block">
-            <img src="/logo.svg" alt="immobilier.ch" class="h-8 brightness-0 invert" /ick links -->
+            <img src="/logo.svg" alt="immobilier.ch" class="h-8 brightness-0 invert" />
+          </router-link>
+
+          <!-- Quick links -->
           <div class="flex flex-wrap gap-4 text-sm">
             <router-link :to="{ name: 'about', params: { lang } }" class="hover:text-primary">
               {{ t('common.footer.whoAreWe') }}
