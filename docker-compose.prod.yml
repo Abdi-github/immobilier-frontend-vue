@@ -25,10 +25,20 @@ services:
       - traefik
     labels:
       - "traefik.enable=true"
+      - "traefik.docker.allownonrunning=true"
       - "traefik.http.routers.immobilier-vue.rule=Host(`immobilier-vue.swiftapp.ch`)"
       - "traefik.http.routers.immobilier-vue.entrypoints=websecure"
       - "traefik.http.routers.immobilier-vue.tls.certresolver=letsencrypt"
+      - "traefik.http.routers.immobilier-vue.middlewares=sablier-immobilier@file"
       - "traefik.http.services.immobilier-vue.loadbalancer.server.port=8080"
+      - "sablier.enable=true"
+      - "sablier.group=immobilier"
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://127.0.0.1:8080/"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 5s
 
 networks:
   immobilier_network:
