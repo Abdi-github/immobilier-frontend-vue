@@ -18,8 +18,8 @@ services:
         - VITE_CLOUDINARY_CLOUD_NAME=${VITE_CLOUDINARY_CLOUD_NAME:-dzyyygr1x}
     container_name: immobilier_frontend_vue_prod
     restart: unless-stopped
-    ports:
-      - "3000:8080"
+    expose:
+      - "8080"
     networks:
       - immobilier_network
       - traefik
