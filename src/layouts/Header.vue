@@ -73,13 +73,7 @@ const userInitials = computed(() => {
     <div class="mx-auto flex h-14 max-w-7xl items-center justify-between px-4">
       <!-- Logo -->
       <router-link :to="{ name: 'home', params: { lang } }" class="flex shrink-0 items-center">
-        <svg width="160" height="32" viewBox="0 0 160 32" class="h-8">
-          <text x="0" y="24" class="fill-[#1a1a2e] text-xl font-bold" style="font-family: system-ui, sans-serif">immobilier</text>
-          <text x="95" y="24" class="fill-primary text-xl font-bold" style="font-family: system-ui, sans-serif">.ch</text>
-        </svg>
-      </router-link>
-
-      <!-- Center Navigation -->
+        <img src="/logo.svg" alt="immobilier.ch" class="h-8" /nter Navigation -->
       <nav class="hidden items-center gap-1 lg:flex">
         <router-link
           v-for="item in navItems"

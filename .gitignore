@@ -12,3 +12,6 @@ test-results
 .idea
 *.sw?
 .DS_Store
+
+# Production secrets (use .env.production.example as template)
+.env.production

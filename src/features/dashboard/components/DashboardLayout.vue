@@ -70,8 +70,7 @@ const userInitials = computed(() => {
             <Menu class="h-5 w-5" />
           </button>
           <router-link :to="{ name: 'home', params: { lang } }" class="flex items-center">
-            <span class="text-xl font-bold text-primary">immobilier</span>
-            <span class="text-xl font-bold text-[#1a1a2e]">.ch</span>
+            <img src="/logo.svg" alt="immobilier.ch" class="h-8" />
           </router-link>
         </div>
         <div class="flex items-center gap-3">

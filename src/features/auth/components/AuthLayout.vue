@@ -46,8 +46,7 @@ const features = computed(() => [
     <header class="border-b bg-white">
       <div class="container mx-auto px-4 py-4">
         <router-link :to="{ name: 'home', params: { lang } }" class="flex items-center">
-          <span class="text-2xl font-bold text-primary">immobilier</span>
-          <span class="text-2xl font-bold text-[#1a1a2e]">.ch</span>
+          <img src="/logo.svg" alt="immobilier.ch" class="h-8" />
         </router-link>
       </div>
     </header>
